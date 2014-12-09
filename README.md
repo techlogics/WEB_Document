@@ -6,6 +6,8 @@
 
 =>初めて触る人向け/欠けている基礎的知識を補う
 
+https://github.com/techlogics/WEB_Document/blob/master/grammar.md
+
 
 ## 開発フロー/運用/保守性
 
