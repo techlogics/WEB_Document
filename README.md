@@ -50,6 +50,12 @@
 皆さんの__Pull Request__でより一層、このプログラミングドキュメントをより良いものにしていけると有難いです。<br><br>
 より多くコミットして頂いている方は【編集者】欄に追記させていただきます。
 
+####マークダウン記法
+
+* [README.mdファイル。マークダウン記法まとめ](http://codechord.com/2012/01/readme-markdown/)
+
+* [Markdown記法 チートシート](http://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
 ####Pull Request方法参照サイト
 
 * [GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
