@@ -34,14 +34,17 @@
 このTECH LOGICS養成ドキュメントmdはTECH LOGICSメンバーに関わらず、<br>
 様々な方の意見を頂きながら__オープンソースな日本一のプログラミングドキュメント__を作成しております。<br>
 修正点や改善点、追加がございましたらお気軽にお声掛けください。<br>
-また、誰もがいつでも「Pull Request」を送れるようにgithubにしておりますので<br>
-皆さんのPull Requestでより一層、このプログラミングドキュメントをより良いものにしていけると有難いです。<br><br>
+また、誰もがいつでも__「Pull Request」__を送れるようにgithubにしておりますので<br>
+皆さんの__Pull Request__でより一層、このプログラミングドキュメントをより良いものにしていけると有難いです。<br><br>
 より多くコミットして頂いている方は【編集者】欄に追記させていただきます。
 
 ####Pull Request方法参照サイト
-・[GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
-・[GitHubで始めてプルリクエストをした話](http://blog.9wick.com/2012/07/github-first-pul/)
+*[GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
+*[GitHubで始めてプルリクエストをした話](http://blog.9wick.com/2012/07/github-first-pul/)
 
 ==============
 ##運営
-[プログラミングコミュニティTECH LOGICS](https://twitter.com/angu_lar)
+[株式会社Far Connection](http://farconnection.jp)
+[プログラミングコミュニティTECH LOGICS](http://techlogics.link)
+
+

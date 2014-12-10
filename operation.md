@@ -66,3 +66,10 @@ HTML
 [ID名とクラス名のサンプル集](http://www.tagindex.com/stylesheet/basic/naming.html)
 
 ---
+
+##Github編
+
+[Gitのコミットメッセージの書き方](http://qiita.com/itosho/items/9565c6ad2ffc24c09364)
+[ChangeLog を支える英語](https://gist.github.com/hayajo/3938098)
+
+
