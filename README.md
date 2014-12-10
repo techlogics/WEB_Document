@@ -10,6 +10,8 @@
 
 の下記の4つのパターンを用意ししている。
 
+->[iOS版](https://github.com/techlogics/iOS_Document)
+
 ==============
 
 ## 文法
