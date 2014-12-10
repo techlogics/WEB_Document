@@ -5,5 +5,6 @@
 
 ##横並び方法
 
-<iframe height='350' scrolling='no' src='http://codepen.io/icchis/embed/GgobOo/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/icchis/pen/GgobOo/'>GgobOo</a> by icchi (<a href='http://codepen.io/icchis'>@icchis</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+http://jsfiddle.net/icchi/c39h3ojg/
+<p data-height="319" data-theme-id="0" data-slug-hash="GgobOo" data-default-tab="result" data-user="icchis" class='codepen'>See the Pen <a href='http://codepen.io/icchis/pen/GgobOo/'>GgobOo</a> by icchi (<a href='http://codepen.io/icchis'>@icchis</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
