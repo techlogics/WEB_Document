@@ -5,7 +5,7 @@
 
 ##横並び方法
 
-* デモ
+####デモ
 
 http://jsfiddle.net/icchi/c39h3ojg/
 
