@@ -71,7 +71,7 @@ __TECH LOGICS WEB開発者養成ドキュメントは<br>
 
 ==============
 ##運営
-[株式会社Far Connection](http://farconnection.jp)
+[株式会社Far Connection](http://farconnection.co.jp)  
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
