@@ -1,7 +1,7 @@
 # TECH LOGICS WEB開発者養成ドキュメント
 
-__TECH LOGICS WEB開発者養成ドキュメントは<br>
-様々なエンジニアの協力を得て作成しております。<br>
+__TECH LOGICS WEB開発者養成ドキュメントは  
+様々なエンジニアの協力を得て作成しております。  
 詳しくは最下部の編集者項目を御覧ください。__
 
 
@@ -13,9 +13,12 @@ __TECH LOGICS WEB開発者養成ドキュメントは<br>
 
 * 【ライブラリ】
 
-の下記の4つのパターンを用意ししている。
+上記の4つのパターンを用意しています。
 
-->[iOS版](https://github.com/techlogics/iOS_Document)
+### 他のドキュメントもご覧ください
+#####[WEB](https://github.com/techlogics/WEB_Document)
+#####[Android](https://github.com/techlogics/Android_Document)
+#####[Git](https://github.com/techlogics/Git_Document)
 
 ==============
 
@@ -50,11 +53,12 @@ __TECH LOGICS WEB開発者養成ドキュメントは<br>
 
 * [いっち](https://twitter.com/angu_lar)
 
-このTECH LOGICS養成ドキュメントmdはTECH LOGICSメンバーに関わらず、<br>
-様々な方の意見を頂きながら__オープンソースな日本一のプログラミングドキュメント__を作成しております。<br>
-修正点や改善点、追加がございましたらお気軽にお声掛けください。<br>
-また、誰もがいつでも__「Pull Request」__を送れるようにgithubにしておりますので<br>
-皆さんの__Pull Request__でより一層、このプログラミングドキュメントをより良いものにしていけると有難いです。<br><br>
+このTECH LOGICS養成ドキュメントmdはTECH LOGICSメンバーに関わらず、  
+オープンソースな日本一のプログラミングドキュメント__を作成しております。  
+修正点や改善点、追加がございましたらお気軽にお声掛けください。  
+また、誰もがいつでも__「Pull Request」__を送れるようにgithubにしておりますので  
+皆さんの__Pull Request__でより一層、このプログラミングドキュメントをより良いものにしていけると有難いです。
+
 より多くコミットして頂いている方は【編集者】欄に追記させていただきます。
 
 ####マークダウン記法
