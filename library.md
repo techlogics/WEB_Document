@@ -91,3 +91,21 @@ $(function(){
 [多機能のカレンダーを実装するjQueryプラグインのFullCalendar](http://sterfield.co.jp/designer/多機能のカレンダーを実装するjqueryプラグインのfullcalendar.html)
 
 ###[デモページ](http://codepen.io/iw3/pen/lyhmI/)
+
+
+##カスタムスクロール
+
+スクロールをもっと充実させたい方におすすめ！  
+`overflow: scroll;`にした場合でも慣性を使ったスクロールができます。
+
+[スクロールバーのデザインをカスタマイズする超多機能jQueryプラグイン「custom scrollbar」](http://eturlt.net/blog/20130612/customscrollbar/)
+
+###[デモページ](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html)
+
+
+
+##その他おすすめライブラリ
+
+###・[jQueryプラグイン集 - skuare.net](http://www.skuare.net/test/jQuery_2.html)
+
+
