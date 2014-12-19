@@ -148,6 +148,13 @@ padding: 1px 2px 3px 4px; /*上1px、右2px、下3px、左4px*/
 /*padding-rigth ・・・ 左の内側の余白を指定*/
 /*padding-bottom ・・・ 下の内側の余白を指定*/
 
+/*color ・・・ 文字色、色を指定*/
+color: #000000; /* 黒 */
+color: #f00; /* 赤 */
+color: rgb(0,255,0); /* 緑 */
+color: rgba(0,0,0,0.5);/* 半透明の黒 */
+color: blue; /* 青,カラーネームで指定,red,green,black,orangeなど */
+
 
 ```
 
