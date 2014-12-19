@@ -15,20 +15,11 @@
 		* index.html
 	* css（フォルダ）
 		* reset.css
-		* style.css（もしくはcommon.css）
-		* blog.css
+		* style.css
 		* ~~~
 	* js（フォルダ）
 		* common.js
-		* blog.js
 		* ~~~
-	* images（フォルダ）
-		* common（フォルダ）
-			* main-bg.png
-			* common-banner01.png
-		* blog（フォルダ）
-			* blog-img01.png
-			* blog-img02.png
 
 
 ##HTML,CSSのid,classの付け方、及びHTMLの構成
