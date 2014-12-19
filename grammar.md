@@ -88,7 +88,33 @@ font-size: 1px; /* フォントサイズ */
 
 line-heght: 1px; /* 行間 */
 
+/*width ・・・ 幅を指定*/
+width: auto; /*初期値。自動設定*/
+width: 1px; /*値で指定*/
+width: 1%;/*%で指定*/
 
+/*max-width ・・・ 幅の最大値を指定*/
+max-width: none; /*初期値。最大値を制限しない*/
+max-width: 1px; /*値で指定*/
+max-width: 1%; /*%で指定*/
+
+/*min-width ・・・ 幅の最小値を指定*/
+min-width: 1px; /*値で指定*/
+min-width: 1%; /*%で指定*/
+
+/*height ・・・ 高さを指定*/
+height: auto; /*初期値。自動設定*/
+height: 1px; /*値で指定*/
+height: 1%;/*%で指定*/
+
+/*max-height ・・・ 高さの最大値を指定*/
+max-height: none; /*初期値。最大値を制限しない*/
+max-height: 1px; /*値で指定*/
+max-height: 1%; /*%で指定*/
+
+/*min-height ・・・ 高さの最小値を指定*/
+min-height: 1px; /*値で指定*/
+min-height: 1%; /*%で指定*/
 
 
 ```
