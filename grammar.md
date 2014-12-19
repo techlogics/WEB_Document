@@ -116,6 +116,38 @@ max-height: 1%; /*%で指定*/
 min-height: 1px; /*値で指定*/
 min-height: 1%; /*%で指定*/
 
+/*margin ・・・ 外側の余白を指定*/
+margin: auto; /*自動*/
+margin: 1px; /*数値で指定*/
+margin: 1%; /*%で指定*/
+/*２つの値で上、下の外側の余白を指定*/
+margin: 1px 2px;/*上1px 下2px;*/
+/*3つの値で上、左右、下の外側の余白を指定*/
+margin: 1px 2px 3px;/*上1px 左右2px; 下3px*/
+/*4つの値で上、右、下、左の外側の余白を指定*/
+margin: 1px 2px 3px 4px; /*上1px、右2px、下3px、左4px*/
+
+/*margin-top ・・・ 上の外側の余白を指定*/
+/*margin-left ・・・ 右の外側の余白を指定*/
+/*margin-rigth ・・・ 左の外側の余白を指定*/
+/*margin-bottom ・・・ 下の外側の余白を指定*/
+
+/*padding ・・・ 内側の余白を指定*/
+padding: auto; /*自動*/
+padding: 1px; /*数値で指定*/
+padding: 1%; /*%で指定*/
+/*２つの値で上、下の内側の余白を指定*/
+padding: 1px 2px;/*上1px 下2px;*/
+/*3つの値で上、左右、下の内側の余白を指定*/
+padding: 1px 2px 3px;/*上1px 左右2px; 下3px*/
+/*4つの値で上、右、下、左の内側の余白を指定*/
+padding: 1px 2px 3px 4px; /*上1px、右2px、下3px、左4px*/
+
+/*padding-top ・・・ 上の内側の余白を指定*/
+/*padding-left ・・・ 右の内側の余白を指定*/
+/*padding-rigth ・・・ 左の内側の余白を指定*/
+/*padding-bottom ・・・ 下の内側の余白を指定*/
+
 
 ```
 
