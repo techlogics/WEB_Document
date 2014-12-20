@@ -86,7 +86,9 @@ CSS
 
 font-size: 1px; /* フォントサイズ */
 
+
 line-heght: 1px; /* 行間 */
+
 
 /*width ・・・ 幅を指定*/
 width: auto; /*初期値。自動設定*/
@@ -102,6 +104,7 @@ max-width: 1%; /*%で指定*/
 min-width: 1px; /*値で指定*/
 min-width: 1%; /*%で指定*/
 
+
 /*height ・・・ 高さを指定*/
 height: auto; /*初期値。自動設定*/
 height: 1px; /*値で指定*/
@@ -115,6 +118,7 @@ max-height: 1%; /*%で指定*/
 /*min-height ・・・ 高さの最小値を指定*/
 min-height: 1px; /*値で指定*/
 min-height: 1%; /*%で指定*/
+
 
 /*margin ・・・ 外側の余白を指定*/
 margin: auto; /*自動*/
@@ -132,6 +136,7 @@ margin: 1px 2px 3px 4px; /*上1px、右2px、下3px、左4px*/
 /*margin-rigth ・・・ 左の外側の余白を指定*/
 /*margin-bottom ・・・ 下の外側の余白を指定*/
 
+
 /*padding ・・・ 内側の余白を指定*/
 padding: auto; /*自動*/
 padding: 1px; /*数値で指定*/
@@ -148,12 +153,47 @@ padding: 1px 2px 3px 4px; /*上1px、右2px、下3px、左4px*/
 /*padding-rigth ・・・ 左の内側の余白を指定*/
 /*padding-bottom ・・・ 下の内側の余白を指定*/
 
+
 /*color ・・・ 文字色、色を指定*/
 color: #000000; /* 黒 */
 color: #f00; /* 赤 */
 color: rgb(0,255,0); /* 緑 */
 color: rgba(0,0,0,0.5);/* 半透明の黒 */
 color: blue; /* 青,カラーネームで指定,red,green,black,orangeなど */
+
+
+/*background ・・・ 背景に関する指定*/
+background: #000000; /* 背景色を黒にする */
+background: url("../image/bg.jpg"); /* 背景をbg.jpgにする */
+background: rgb(0,0,0) url("../image/bg.jpg"); /* 背景色を黒,bg.jpgにする */
+
+/*background-color ・・・ 背景色を指定 */
+background-color: transparent; /* 背景透明。初期値 */
+background-color: #ffffff; /* 背景色を白にする */
+background-color: rgba(255,0,0,0.5); /* 背景色を半透明の赤にする */
+
+/*background-image ・・・ 背景画像を指定 */
+background-image: none; /* 何もない 初期値 */
+background-image: url(URI); /* 背景をURIで指定した画像にする */
+background-image: url("../image/bg.jpg"); /* 背景をbg.jpgにする */
+
+/*background-attachment ・・・ 背景画像の固定・移動を指定 */
+background-attachment: fixed; /* 背景画像を固定、スクロールしても動かない */
+background-attachment: scroll; /* スクロールで背景画像が移動 */
+
+/*background-position ・・・ 背景画像の表示位置を指定 */
+background-position: right; /* 右側に表示 top,right,left,bottom,centerで指定できる*/
+background-position: left bottom; /*左下に表示 */
+background-position: 30% 50%; /*左から30%、上から50%のところに表示 */
+background-position: 100px 200px; /*左から100px、上から200pxのところに表示 */
+
+/*background-repeat ・・・ 背景画像のリピートを指定 */
+background-repeat: repeat; /* 初期値。繰り返して表示 */
+background-repeat: repeat-x; /* 横方向のみ繰り返して表示 */
+background-repeat: repeat-y; /* 縦方向のみ繰り返して表示 */
+background-repeat: no-repeat; /*画像を一回だけ表示させて繰り返さない */
+
+
 
 
 ```
