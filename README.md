@@ -79,3 +79,6 @@ __TECH LOGICS WEB開発者養成ドキュメントは
 [プログラミングコミュニティTECH LOGICS](http://techlogics.link)
 
 
+test
+
+
