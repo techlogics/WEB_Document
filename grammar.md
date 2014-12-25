@@ -83,8 +83,44 @@ HTML
 CSS
 
 /* コメントアウト */
-
+/*font-size ・・・ フォントサイズ */
 font-size: 1px; /* フォントサイズ */
+
+/*font-style ・・・ フォントスタイル */
+font-style: normal; /* 初期値。標準 */
+font-style: italic; /* イタリック体 */
+font-style: oblique; /* 斜体 */
+
+/* font-variant ･･･ フォントをスモールキャップにする */
+font-variant: normal; /* 初期値。標準 */
+font-variant: small-caps; /* スモールキャップのフォントで表示 */
+
+/* font-weight ･･･ フォントの太さを指定 */
+
+font-weight: normal; /* 標準(400) */
+font-weight: bold; /* 太字(700) */
+font-weight: lighter; /*相対的に補足する */
+font-weght: bolder; /* 相対的に太くする */
+font-weght: 100; /*100,200,300,400,500,600,700,800,900で指定 */
+
+/* font-family ･･･ フォントの種類を指定 */
+/* フォント名で指定 シングルコーテーション(')またはダブルコーテーション(")で囲む*/
+font-family: "ＭＳ ゴシック"; /* MSゴシック */
+font-family: "ＭＳ 明朝"; /* MS明朝 */
+/* キーワードで指定 */
+font-family: sans-serif; /* ゴシック系のフォント */
+font-family: serif; /* 明朝系のフォント */
+font-family: cursive; /* 筆記体・草書体のフォント */
+font-family: fantasy; /* 装飾的なフォント */
+font-family: monospace; /* 等幅フォント */
+/* 複数指定で環境で利用可能なものが選択され、イメージに近いフォントを表示させることが出来る */
+font-family: "ＭＳ ゴシック",sans-serif;
+font-family: "ＭＳ 明朝",serif;
+
+/* font-size-adjust ･･･ フォントのサイズを調整 */
+font-size-adjust: none; /* 初期値 */
+font-size-adjust: 0.5; /* ( 小文字xの高さ / フォントの高さ )の数値で指定 */
+
 
 
 line-heght: 1px; /* 行間 */
@@ -192,6 +228,7 @@ background-repeat: repeat; /* 初期値。繰り返して表示 */
 background-repeat: repeat-x; /* 横方向のみ繰り返して表示 */
 background-repeat: repeat-y; /* 縦方向のみ繰り返して表示 */
 background-repeat: no-repeat; /*画像を一回だけ表示させて繰り返さない */
+
 
 
 
