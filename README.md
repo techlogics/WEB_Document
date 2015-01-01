@@ -5,53 +5,34 @@ __TECH LOGICS WEB開発者養成ドキュメントは
 詳しくは最下部の編集者項目を御覧ください。__
 
 
-* 【文法】
-
-* 【開発フロー/運用/保守性】
-
-* 【よく使う実践的コード】
-
-* 【ライブラリ】
-
-上記の4つのパターンを用意しています。
-
-### 他のドキュメントもご覧ください
-#####[WEB](https://github.com/techlogics/WEB_Document)
-#####[Android](https://github.com/techlogics/Android_Document)
-#####[Git](https://github.com/techlogics/Git_Document)
-
-==============
-
-## 文法
-
+## [文法](https://github.com/techlogics/WEB_Document/blob/master/grammar.md)
 * 初めて触る人向け/欠けている基礎的知識を補う
 
-->[文法](https://github.com/techlogics/WEB_Document/blob/master/grammar.md)
 
-
-## 開発フロー/運用/保守性
-
+## [開発フロー/運用/保守性](https://github.com/techlogics/WEB_Document/blob/master/operation.md)
 * 開発の流れ、運用向けのコーディング方法
 
-->[開発フロー/運用/保守性](https://github.com/techlogics/WEB_Document/blob/master/operation.md)
 
-
-## よく使う実践的コード
-
+## [よく使う実践的コード](https://github.com/techlogics/WEB_Document/blob/master/useful.md)
 * よく躓いたりすることなど、案件をしてわからなくなってもこれ見ながらできるようにする
 
-->[よく使う実践的コード](https://github.com/techlogics/WEB_Document/blob/master/useful.md)
 
-## ライブラリ
-
+## [ライブラリ](https://github.com/techlogics/WEB_Document/blob/master/library.md)
 * どれがどの役割をできるかの確認
 
-->[ライブラリ](https://github.com/techlogics/WEB_Document/blob/master/library.md)
+
+
+---
+
+### 他のドキュメントもご覧ください
+#####[Android](https://github.com/techlogics/Android_Document)
+#####[Git](https://github.com/techlogics/Git_Document)
 
 ---
 ##編集者
 
 * [いっち](https://twitter.com/angu_lar)
+* [ひえもん](https://twitter.com/hiemon_)
 
 このTECH LOGICS養成ドキュメントmdはTECH LOGICSメンバーに関わらず、  
 オープンソースな日本一のプログラミングドキュメント__を作成しております。  
