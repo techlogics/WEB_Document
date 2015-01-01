@@ -4,10 +4,15 @@
 
 ##スライドショー
 
-弊社では一番導入がしやすいbxsliderを推奨しています。
+弊社では一番導入がしやすいbxsliderを推奨しています。  
 
-###[公式HP - bxslider](http://bxslider.com)
-###[サンプル集 - bxslider](http://zxcvbnmnbvcxz.com/demonstration/slide_in_slide.html)
+* [公式HP - bxslider](http://bxslider.com)
+* [サンプル集 - bxslider](http://zxcvbnmnbvcxz.com/demonstration/slide_in_slide.html)
+
+カルーセル（自動）の動きや向きにbxsliderでは限度があるため、  
+カルーセルに長けたい場合はOwl Carouselを推奨しています。
+
+* [レスポンシブデザインにぴったりなカルーセルスライダー「Owl Carousel」](http://sterfield.co.jp/designer/レスポンシブデザインにぴったりなカルーセルス.html)
 
 ###その他おすすめスライダー
 * [ANIMATIONS FOR THUMBNAIL GRIDS](http://tympanus.net/codrops/2013/10/23/animations-for-thumbnail-grids/)
@@ -24,6 +29,7 @@ Webページ上のサムネイル画像を拡大表示できるJavaScriptのラ�
 画像集などによく使われる。
 
 ###おすすめLightBox
+* [Simple Lightbox - Lokesh Dhakar](http://lokeshdhakar.com/projects/lightbox2/)
 * [[JS]Lightboxの進化形！操作性が快適でフラットなデザインにもぴったりなレスポンシブ対応のスクリプト -Strip](http://coliss.com/articles/build-websites/operation/javascript/jquery-plugin-strip.html)
 
 ####参照サイト
@@ -102,6 +108,12 @@ $(function(){
 
 ###[デモページ](http://manos.malihu.gr/repository/custom-scrollbar/demo/examples/complete_examples.html)
 
+
+##立体的な3Dのタブ
+
+ロジックスでは[TECH SPACE - テクノロジー系まとめサイト](http://techspace.link)で使われております。
+
+* [要素を立体的に回転させて動かすエフェクトTURNBOX.jsの実装方法](http://liginc.co.jp/web/js/jquery/116636)
 
 
 ##その他おすすめライブラリ
