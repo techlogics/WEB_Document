@@ -21,10 +21,15 @@ __TECH LOGICS WEB開発者養成ドキュメントは
 * どれがどの役割をできるかの確認
 
 
+## [ブラウザ/デザイン/エディター/ツール](https://github.com/techlogics/WEB_Document/blob/master/subtheme.md)
+* 作業効率やエディタ周りの環境づくり
+
+
 
 ---
 
 ### 他のドキュメントもご覧ください
+#####[iOS](https://github.com/techlogics/iOS_Document)
 #####[Android](https://github.com/techlogics/Android_Document)
 #####[Git](https://github.com/techlogics/Git_Document)
 
