@@ -159,8 +159,6 @@ font-size-adjust: 0.5; /* ( 小文字xの高さ / フォントの高さ )の数�
 
 
 
-line-heght: 1px; /* 行間 */
-
 
 /*width ・・・ 幅を指定*/
 width: auto; /*初期値。自動設定*/
@@ -305,7 +303,7 @@ vertical-align: bottom; /* 下端揃え */
 vertical-align: text-top; /* テキストの上端揃え（テーブルセルへの指定は無効） */
 vertical-align: text-bottom; /* テキストの下端揃え（テーブルセルへの指定は無効） */
 vertical-align: super; /* 上付き文字（テーブルセルへの指定は無効） */
-vertical-align: sub: /* 下付き文字（テーブルセルへの指定は無効） */
+vertical-align: sub; /* 下付き文字（テーブルセルへの指定は無効） */
 vertical-align: 10%; /* %で指定（正の値なら上、負の値なら下へ移動） */
 vertical-align: 10px; /*数値＋単位で指定（正の値なら上、負の値なら下へ移動） */
 
