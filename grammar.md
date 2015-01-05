@@ -265,7 +265,7 @@ background-repeat: repeat-x; /* 横方向のみ繰り返して表示 */
 background-repeat: repeat-y; /* 縦方向のみ繰り返して表示 */
 background-repeat: no-repeat; /*画像を一回だけ表示させて繰り返さない */
 
-/* css3 */
+/* css3 background */
 /* background-clip ・・・ 背景の適用範囲を指定 */
 background-clip: border-box; /* 初期値 */
 background-clip: padding-box; /* パディングボーダーボックス */
@@ -282,6 +282,70 @@ background-size: contain; /* 背景領域に収まる最大サイズになるよ
 background-size: cover; /* 背景領域を完全に覆う最小サイズになるように背景画像を拡大縮小 */
 background-size: 10px 30px; /* 背景画像の幅・高さを指定 */
 background-size: 50% 50%; /* 背景領域に対する背景画像の幅・高さのパーセンテージを指定 */
+
+
+
+/* line-height ･･･ 行の高さを指定 */
+line-height: normal; /* 初期値 */
+line-height: 15px; /* 数値に単位を付けて指定 */
+line-height: 10; /* 数値のみで指定 */
+line-height: 200%; /* %で指定 */
+
+/* text-align ･･･ 行揃えの位置・均等割付を指定 */
+text-align: left; /* 左寄せにします。 */
+text-align: right; /* 右寄せにします。 */
+text-align: center; /* 中央揃えにします。 */
+text-align: justify; /* 均等割付にします。 */
+
+/* vertical-align ･･･ 縦方向の揃え位置を指定 */
+vertical-align: baseline; /* 初期値 */
+vertical-align: top; /* 上端揃え */
+vertical-align: middle; /* 中央揃え */
+vertical-align: bottom; /* 下端揃え */
+vertical-align: text-top; /* テキストの上端揃え（テーブルセルへの指定は無効） */
+vertical-align: text-bottom; /* テキストの下端揃え（テーブルセルへの指定は無効） */
+vertical-align: super; /* 上付き文字（テーブルセルへの指定は無効） */
+vertical-align: sub: /* 下付き文字（テーブルセルへの指定は無効） */
+vertical-align: 10%; /* %で指定（正の値なら上、負の値なら下へ移動） */
+vertical-align: 10px; /*数値＋単位で指定（正の値なら上、負の値なら下へ移動） */
+
+/* text-decoration ･･･ テキストの下線・上線・打ち消し線・点滅を指定 */
+text-decoration: none; /* 初期値 */
+text-decoration: underline; /* テキストに下線が付く */
+text-decoration: overline; /* テキストに上線が付く */
+text-decoration: line-through; /* テキストに打ち消し線が付く */
+text-decoration: blink; /* テキストが点滅 (過去のブラウザではサポートしていた) */
+
+/* text-indent ･･･ 一行目のインデント幅を指定 */
+text-indent: 1em; /* 数値で指定 */
+text-indent: 10%; /* %で指定 */
+
+/* text-transform ･･･ テキストの大文字表示・小文字表示を指定 */
+/*英語などのテキストの大文字・小文字を指定する際に使用*/
+text-transform: none; /* 初期値 */
+text-transform: capitalize; /* 単語の先頭文字を大文字で表示 */
+text-transform: lowercase; /* 全てを小文字で表示 */
+text-transform: uppercase; /* 全てを大文字で表示 */
+
+/* white-space ･･･ ソース中のスペース・タブ・改行の表示の仕方を指定 */
+white-space: normal; /* 自動的に改行,複数の空白・タブ・改行をひとつの空白に置換 */
+white-space: pre; /* 自動改行しない,半角スペース・タブ・改行をそのまま表示 */
+white-space: nowrap; /* 自動的に改行,複数の空白・タブ・改行をひとつの空白に置換 */
+white-space: pre-wrap; /* 自動改行します。空白・タブ・改行はそのまま表示 */
+white-space: pre-line; /* 自動改行します。複数の空白・タブをひとつの空白に置換。ただし改行はそのまま表示 */
+
+/* letter-spacing ･･･ 文字の間隔を指定する */
+letter-spacing: normal; /* 初期値 */
+letter-spacing: 10px; /* 数値で指定 */
+
+/* word-spacing ･･･ 単語の間隔を指定する */
+word-spacing: normal; /* 初期値 */
+word-spacing: 10px; /* 数値で指定 */
+
+/* text-shadow ･･･ テキストに影をつける */
+text-shadow: none; /* 初期値 */
+text-shadow: 5px 5px 2px yellow , -5px -5px 1px #ff0000; /* 水平方向の距離 垂直方向の距離 影のぼかし半径 影の色指定 */
+/* スペース区切りで<水平方向の距離> <垂直方向の距離> <影のぼかし半径> <影の色>を指定。影のぼかし半径と色は省略可能 */
 
 
 
