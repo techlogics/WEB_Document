@@ -15,6 +15,8 @@ WEBで作業効率のために知っておくブラウザのショートカッ�
 
 * [開発者向けブラウザ - Google Chrome Canary](https://www.google.co.jp/chrome/browser/canary.html)
 
+* [開発者向けブラウザ - Firefox Developer Edition](https://www.mozilla.org/ja/firefox/developer/)
+
 * [Yosemite で Google Chrome Canary をデフォルトブラウザに設定する](http://qiita.com/turusuke/items/040ccdd9f198519a7884)
 
 
@@ -43,7 +45,7 @@ WikipediaやこのGithubのmdのような見やすいサイトになったりす
 
 #エディター
 
-まずは__フロントエンド__、__バックエンドエンジニア__におすすめなエディタを紹介します。 
+まずは__フロントエンド__、__バックエンドエンジニア__におすすめなエディタを紹介します。
 
 ###今、人気の「Sublime Text」
 
