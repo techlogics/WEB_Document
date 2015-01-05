@@ -69,6 +69,12 @@ hr{
 * [[CSS] 水平線＜hr＞のスタイルを変更する](http://tande.jp/lab/2011/05/1384)
 
 
+##文字を縁取り
+text-shadowプロパティを使います。
+text-shadow: 水平方向（右）　垂直方向（下)　ぼかし　色　というように指定します。
+[text-shadowデモ](http://jsfiddle.net/Hiemon/483Lytmq/)
+
+
 ##スクロールバーのカスタマイズ（CSS）
 
 スマホのスクロールバーのCSSをカスタマイズしたい方おすすめ
