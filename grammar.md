@@ -115,12 +115,18 @@ HTML
 
 ##CSSの要素一覧
 
-```css
+
 CSS
+```css
 
 /* コメントアウト */
 /*font-size ・・・ フォントサイズ */
 font-size: 1px; /* フォントサイズ */
+
+```
+* [フォントサイズサンプル](http://jsfiddle.net/Hiemon/uk2khtsc/)
+
+```css
 
 /*font-style ・・・ フォントスタイル */
 font-style: normal; /* 初期値。標準 */
