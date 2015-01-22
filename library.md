@@ -119,5 +119,5 @@ $(function(){
 ##その他おすすめライブラリ
 
 ###・[jQueryプラグイン集 - skuare.net](http://www.skuare.net/test/jQuery_2.html)
-
+###・[今風になった！Web制作で使える最近のjQueryプラグインまとめ](http://commte.net/blog/archives/4794)
 
