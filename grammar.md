@@ -345,6 +345,22 @@ text-shadow: none; /* 初期値 */
 text-shadow: 5px 5px 2px yellow , -5px -5px 1px #ff0000; /* 水平方向の距離 垂直方向の距離 影のぼかし半径 影の色指定 */
 /* スペース区切りで<水平方向の距離> <垂直方向の距離> <影のぼかし半径> <影の色>を指定。影のぼかし半径と色は省略可能 */
 
+/* overflow ・・・ はみ出たものの表示方法を指定 */
+overflow: visible; /* 初期値 */
+ overflow: scroll; /* はみ出した内容はスクロールしてみることが出来る */
+overflow: hidden; /* はみ出た部分は表示しない */
+overflow: auto; /* ブラウザに依存 */
+
+/* float ・・・ 右、左に寄せて表示,回り込み */
+float: none; /* 初期値 */
+float: right; /* 右に寄せ、右側に回り込む */
+float: left; /* 左に寄せ、左側に回り込む */
+
+/* clear ･･･ 回り込みを解除 */
+clear: none; /* 初期値 */
+clear: right; /* 右の回り込みを解除 */
+clear: left; /* 左の回り込みを解除 */
+clear: both; /* 両方の回りこみを解除 */
 
 
 
