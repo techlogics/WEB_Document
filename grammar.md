@@ -124,7 +124,7 @@ CSS
 font-size: 1px; /* フォントサイズ */
 
 ```
-* [フォントサイズサンプル](http://jsfiddle.net/Hiemon/uk2khtsc/)
+* [フォントサイズサンプル](http://jsfiddle.net/Hiemon/uk2khtsc/4/)
 
 ```css
 
