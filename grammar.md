@@ -371,7 +371,9 @@ clear: both; /* 両方の回りこみを解除 */
 /* z-index ・・・ 重なりの順番を指定 */
 z-index: auto; /* 初期値 */
 z-index: 10; /*　数値で指定。0を基準に大きいほど上になる*/
-
+```
+[z-indexサンプル](http://jsfiddle.net/Hiemon/gehps0ye/2/)
+```css
 /* position ・・・ 配置方法を指定 */
 position: static; /* 初期値 */
 position: relative; /* 相対配置。staticの位置が基準になる*/
