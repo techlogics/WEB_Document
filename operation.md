@@ -151,7 +151,11 @@ HTML5コード例）
 ##CSSの構成・規約
 
 弊社のコーディング規約は
-[Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#ID_and_Class_Name_Delimiters) に則ります。
+[Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#ID_and_Class_Name_Delimiters) に則ります。 
+また、html,css規約にてリファクタリングする際、 
+HTMLは[Dirty Markup](http://www.dirtymarkup.com) 
+CSSは[ProCSSor - Advanced CSS Prettifier](http://tools.maxcdn.com/process) 
+の2spacesを推奨します。
 
 
 ```css
