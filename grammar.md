@@ -368,6 +368,25 @@ clear: right; /* 右の回り込みを解除 */
 clear: left; /* 左の回り込みを解除 */
 clear: both; /* 両方の回りこみを解除 */
 
+/* z-index ・・・ 重なりの順番を指定 */
+z-index: auto; /* 初期値 */
+z-index: 10; /*　数値で指定。0を基準に大きいほど上になる*/
+
+/* position ・・・ 配置方法を指定 */
+position: static; /* 初期値 */
+position: relative; /* 相対配置。staticの位置が基準になる*/
+position: absolute; /* 絶対配置 親の左上が基準位置になる*/
+position: fixed; /* 固定配置。absoluteと同じ絶対配置になるがスクロールしても位置が動かない*/
+
+/* positionと併用 */
+/*top ・・・ 上からの配置位置を指定*/
+/*left ・・・ 左からの配置位置を指定*/
+/*right ・・・ 右からの配置位置を指定*/
+/*bottom ・・・ 下からの配置位置を指定*/
+top: auto; /* 初期値 */
+left: 10px; /* 左から10pxの位置に配置 */
+right: 50%; /* 右から50%の位置に配置 */
+
 
 
 
