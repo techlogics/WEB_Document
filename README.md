@@ -59,6 +59,8 @@ __TECH LOGICS WEB開発者養成ドキュメントは
 
 * [GitHubで始めてプルリクエストをした話](http://blog.9wick.com/2012/07/github-first-pul/)
 
+Test from Tohn
+
 ==============
 ##運営
 [株式会社Far Connection](http://farconnection.co.jp)  
