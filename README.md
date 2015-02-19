@@ -30,7 +30,7 @@ __TECH LOGICS WEB開発者養成ドキュメントは
 
 ### 他のドキュメントもご覧ください
 #####[iOS](https://github.com/techlogics/iOS_Document)
-#####[Android](https://github.com/techlogics/Android_Document)
+<!-- #####[Android](https://github.com/techlogics/Android_Document) -->
 #####[Git](https://github.com/techlogics/Git_Document)
 
 ---
