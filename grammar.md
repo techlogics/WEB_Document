@@ -389,6 +389,16 @@ top: auto; /* 初期値 */
 left: 10px; /* 左から10pxの位置に配置 */
 right: 50%; /* 右から50%の位置に配置 */
 
+/* :before ･･･ 要素の直前に内容を挿入する */
+/* :after ･･･ 要素の直後に内容を挿入する */
+/* content ･･･ 内容（コンテンツ）を挿入する */
+content: "文字列";/* "",''で文字列を囲む*/
+content: url("../image.png"); /*　画像をurlで指定 */
+content: attr(); /*()の中に属性を指定、指定されている属性が表示される*/
+content: counter(); /* 連番をつける
+```
+[before,after,contentサンプル](http://jsfiddle.net/Hiemon/b8gh15Ls/1/)
+```css
 
 
 
