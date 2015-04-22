@@ -399,8 +399,41 @@ content: counter(); /* 連番をつける
 ```
 [before,after,contentサンプル](http://jsfiddle.net/Hiemon/b8gh15Ls/1/)
 ```css
+/*list-style ･･･ マーカーに関する指定をまとめて行う*/
+list-style: square url('image.jpg') inside;
+/*list-style-type,list-style-image,list-style-positionを任意の順序でスペースで区切って記述*/
 
+/*list-style-image ･･･ マーカー画像を指定 */
+list-style-image: url('image.jpg');
+/*list-style-type ･･･ マーカー文字の種類を指定する*/
+list-style-type: none; /*マーカーなし*/
+list-style-type: disc; /*黒丸*/
+list-style-type: circle; /*白丸*/
+list-style-type: square; /*黒四角*/
+list-style-type: lower-roman; /*小文字のローマ数字*/
+list-style-type: upper-roman; /*大文字のローマ数字*/
+list-style-type: lower-greek; /*小文字のギリシャ文字*/
+list-style-type: decimal; /*算用数字*/
+list-style-type: decimal-leading-zero; /*先頭に0をつけた算用数字*/
+list-style-type: lower-latin; /*小文字のアルファベット*/
+list-style-type: lower-alpha; /*小文字のアルファベット*/
+list-style-type: upper-latin; /*大文字のアルファベット*/
+list-style-type: upper-alpha; /*大文字のアルファベット*/
+list-style-type: cjk-ideographic; /*漢数字*/
+list-style-type: hiragana; /*ひらがなのあいうえお順*/
+list-style-type: katakana; /*カタカナのアイウエオ順*/
+list-style-type: hiragana-iroha; /*ひらがなのいろはにほへと順*/
+list-style-type: katakana-iroha; /*カタカナのイロハニホヘト順*/
+list-style-type: hebrew; /*ヘブライ数字*/
+list-style-type: armenian; /*アルメニア数字*/
+list-style-type: georgian; /*グルジア数字*/
 
+/*list-style-position ･･･ マーカーの表示位置を指定 */
+list-style-position: outside; /*マーカーが外側に表示され、マーカー以外の部分がインデントされた形になる*/
+list-style-position: inside; /*マーカーがリ内側に表示され、マーカーとマーカー以外の部分の高さが揃う */
+/*marker-offset ･･･ マーカーとの間隔を指定 */
+marker-offset: auto; /*自動設定（初期値）*/
+marker-offset: 10px; /*/*数値にpxなどの単位をつけて指定*/
 
 ```
 
